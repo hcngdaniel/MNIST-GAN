@@ -1,0 +1,7 @@
+save: v3
+device: cuda
+batch_size: 128
+lr: 5e-5
+n_critic: 5
+start_epoch: 1
+end_epoch: 1000
